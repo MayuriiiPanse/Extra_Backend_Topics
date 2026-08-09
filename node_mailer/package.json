@@ -1,0 +1,16 @@
+{
+  "name": "node_mailer",
+  "version": "1.0.0",
+  "description": "This guide provides step-by-step instructions for setting up and using Nodemailer in a Node.js application with OAuth2 authentication using `ClientID` and `ClientSecret`, along with generating a refresh token using the OAuth 2.0 Playground.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "nodemailer": "^9.0.3"
+  }
+}
